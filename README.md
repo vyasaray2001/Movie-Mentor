@@ -1,6 +1,6 @@
 # movie_recommender_application
 
-A new Flutter project.
+Movie Mentor is a sleek and user-friendly movie recommender mobile app developed using the Flutter framework and integrated with the TMDB API. This App is the perfect companion for movie enthusiasts who are looking to discover new films, explore personalized recommendations, and make informed decisions on what to watch next.
 
 ## Getting Started
 
